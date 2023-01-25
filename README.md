@@ -16,7 +16,7 @@ Página CONTATO
 
 Projeto construído durante o curso de HTML / CSS / Javascript
 
-[🔗 Clique aqui para acessar](https://github.com/LuanLafayete/Projeto-Anna-Bella)
+[🔗 Clique aqui para acessar](https://luanlafayete.github.io/Projeto-Anna-Bella/)
 
 ## 💻 Tecnologias 
 - HTML
